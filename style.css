@@ -75,7 +75,18 @@ main{
     }
 
     .apresentacao{
-        
+        margin-bottom: 2.4rem;
+
+        h1{
+            font-size: 4rem;
+            font-weight: 400;
+            line-height: 140%;
+        }
+
+        p:nth-of-type(1){
+            
+        }
+
     }
 
 }
