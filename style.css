@@ -4,6 +4,12 @@
     --text-color-on-bg: #F0E8C2;
     --background-color: #573824;
     --surface-color:  #F0E8C2;
-    
-    
+   
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Alice", serif;
 }
