@@ -100,7 +100,15 @@ main{
         padding-left: 2.4rem;
         line-height: 150%;
         color: var(--text-color-secondary);
-        
+
     }
+    
+ }
+
+ .modo-preparo{
+    p{
+        margin-bottom: 1.2rem;
+    }
+   
  }
 }
